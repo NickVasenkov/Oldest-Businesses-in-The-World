@@ -1,5 +1,6 @@
 # Oldest Businesses in The World
- Exploring the oldest businesses in the world via Pandas:
  https://github.com/NickVasenkov/Oldest-Businesses-in-The-World/blob/main/oldest-businesses.ipynb
 
-Datasets are collected by BusinessFinancing.co.uk
+Using Pandas library and datasets collected by BusinessFinancing.co.uk, we'll answer several questions about the oldest businesses in the world, e.g.:
+
+For each continent and each business category, what is the foundation date of the oldest business that is still exist?
